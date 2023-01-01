@@ -1,6 +1,8 @@
 # Mobile Security Trainings
 Mobile security trainings based on android
 
+反病毒专家 http://wikisec.free.fr/papers/papers.html
+
 ## Material:
 
 - **Hacking Soft Tokens**. Advanced Reverse Engineering
